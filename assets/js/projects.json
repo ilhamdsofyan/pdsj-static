@@ -1,0 +1,54 @@
+{
+  "projects": [
+    {
+      "id": "proj-1",
+      "client": "PT Korindo Heavy Industries",
+      "type": "image",
+      "image": "assets/images/projects/korindo-heavy-industry.jpeg",
+      "title": "",
+      "description": "",
+      "year": "2023-2024",
+      "location": "Jawa Barat"
+    },
+    {
+      "id": "proj-2",
+      "client": "Kopi Nako",
+      "type": "image",
+      "image": "assets/images/projects/kopi-nako.jpeg",
+      "title": "",
+      "description": "",
+      "year": "2022-2023",
+      "location": "Jakarta"
+    },
+    {
+      "id": "proj-3",
+      "client": "PT Bakrie Pipe Industries",
+      "type": "image",
+      "image": "assets/images/projects/pt-bakrie-pipe-industries.jpeg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Surabaya, Jawa Timur"
+    },
+    {
+      "id": "proj-4",
+      "client": "PT Alam Sutera",
+      "type": "image",
+      "image": "assets/images/projects/pt-alam-sutera.jpeg",
+      "title": "",
+      "description": "",
+      "year": "2023-2024",
+      "location": "Bandung, Jawa Barat"
+    },
+    {
+      "id": "proj-5",
+      "client": "PT Porter Rekayasa Unggul",
+      "type": "image",
+      "image": "assets/images/projects/pt-porter-rekayasa-unggul.jpeg",
+      "title": "",
+      "description": "",
+      "year": "2022-2023",
+      "location": "Medan, Sumatera Utara"
+    }
+  ]
+}

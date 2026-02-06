@@ -1,0 +1,495 @@
+{
+  "gallery": [
+    {
+      "id": "gallery-1",
+      "type": "image",
+      "image": "assets/images/warehouse.jpeg",
+      "title": "Gudang Konstruksi Jakarta",
+      "description": "Gudang penyimpanan dan pengolahan material kayu.",
+      "year": "2024",
+      "location": "Jakarta Utara"
+    },
+    {
+      "id": "gallery-2",
+      "type": "video",
+      "video": "assets/videos/pt-porter-rekayasa-unggul.mp4",
+      "poster": "assets/images/gallerys/pt-porter-rekayasa-unggul.jpeg",
+      "title": "Proses Penurunan Kayu",
+      "description": "Dokumentasi proses penurunan kayu dari truk pengangkut.",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-3",
+      "type": "image",
+      "image": "assets/images/galleries/1.jpeg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-4",
+      "type": "image",
+      "image": "assets/images/galleries/2.jpeg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-5",
+      "type": "image",
+      "image": "assets/images/galleries/3.jpeg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-6",
+      "type": "image",
+      "image": "assets/images/galleries/4.jpeg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-7",
+      "type": "image",
+      "image": "assets/images/galleries/5.jpeg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-8",
+      "type": "image",
+      "image": "assets/images/galleries/6.jpeg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-9",
+      "type": "image",
+      "image": "assets/images/galleries/7.jpeg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-10",
+      "type": "image",
+      "image": "assets/images/galleries/8.jpeg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-11",
+      "type": "image",
+      "image": "assets/images/galleries/9.jpeg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-12",
+      "type": "image",
+      "image": "assets/images/galleries/10.jpeg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-13",
+      "type": "image",
+      "image": "assets/images/galleries/11.jpeg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-14",
+      "type": "image",
+      "image": "assets/images/galleries/12.jpeg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-15",
+      "type": "image",
+      "image": "assets/images/galleries/13.jpeg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-16",
+      "type": "image",
+      "image": "assets/images/galleries/14.jpeg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-17",
+      "type": "image",
+      "image": "assets/images/galleries/15.jpeg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-18",
+      "type": "image",
+      "image": "assets/images/galleries/16.jpeg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-19",
+      "type": "image",
+      "image": "assets/images/galleries/17.jpeg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-20",
+      "type": "image",
+      "image": "assets/images/galleries/18.jpeg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-21",
+      "type": "image",
+      "image": "assets/images/galleries/19.jpeg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-22",
+      "type": "image",
+      "image": "assets/images/galleries/20.jpeg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-23",
+      "type": "image",
+      "image": "assets/images/galleries/21.jpeg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-24",
+      "type": "image",
+      "image": "assets/images/galleries/22.jpeg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-25",
+      "type": "image",
+      "image": "assets/images/galleries/23.jpeg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-26",
+      "type": "image",
+      "image": "assets/images/galleries/24.jpeg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-27",
+      "type": "image",
+      "image": "assets/images/galleries/25.jpeg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-28",
+      "type": "image",
+      "image": "assets/images/galleries/26.jpeg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-29",
+      "type": "image",
+      "image": "assets/images/galleries/27.jpeg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-30",
+      "type": "image",
+      "image": "assets/images/galleries/28.jpeg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-31",
+      "type": "image",
+      "image": "assets/images/galleries/29.jpeg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-32",
+      "type": "image",
+      "image": "assets/images/galleries/30.jpeg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-33",
+      "type": "image",
+      "image": "assets/images/galleries/31.jpeg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-34",
+      "type": "image",
+      "image": "assets/images/galleries/32.jpeg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-35",
+      "type": "image",
+      "image": "assets/images/galleries/33.jpeg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-36",
+      "type": "image",
+      "image": "assets/images/galleries/34.jpeg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-37",
+      "type": "image",
+      "image": "assets/images/galleries/35.jpeg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-38",
+      "type": "image",
+      "image": "assets/images/galleries/36.jpeg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-39",
+      "type": "image",
+      "image": "assets/images/galleries/37.jpeg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-40",
+      "type": "image",
+      "image": "assets/images/galleries/38.jpeg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-41",
+      "type": "video",
+      "video": "assets/videos/vid-1.mp4",
+      "poster": "assets/images/placeholder.jpg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-42",
+      "type": "video",
+      "video": "assets/videos/vid-2.mp4",
+      "poster": "assets/images/placeholder.jpg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-43",
+      "type": "video",
+      "video": "assets/videos/vid-3.mp4",
+      "poster": "assets/images/placeholder.jpg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-44",
+      "type": "video",
+      "video": "assets/videos/vid-4.mp4",
+      "poster": "assets/images/placeholder.jpg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-45",
+      "type": "video",
+      "video": "assets/videos/vid-5.mp4",
+      "poster": "assets/images/placeholder.jpg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-46",
+      "type": "video",
+      "video": "assets/videos/vid-6.mp4",
+      "poster": "assets/images/placeholder.jpg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-47",
+      "type": "video",
+      "video": "assets/videos/vid-7.mp4",
+      "poster": "assets/images/placeholder.jpg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-48",
+      "type": "video",
+      "video": "assets/videos/vid-8.mp4",
+      "poster": "assets/images/placeholder.jpg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-49",
+      "type": "video",
+      "video": "assets/videos/vid-9.mp4",
+      "poster": "assets/images/placeholder.jpg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-50",
+      "type": "video",
+      "video": "assets/videos/vid-10.mp4",
+      "poster": "assets/images/placeholder.jpg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-51",
+      "type": "video",
+      "video": "assets/videos/vid-11.mp4",
+      "poster": "assets/images/placeholder.jpg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-52",
+      "type": "video",
+      "video": "assets/videos/vid-12.mp4",
+      "poster": "assets/images/placeholder.jpg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    },
+    {
+      "id": "gallery-53",
+      "type": "video",
+      "video": "assets/videos/vid-13.mp4",
+      "poster": "assets/images/placeholder.jpg",
+      "title": "",
+      "description": "",
+      "year": "2024",
+      "location": "Seluruh Indonesia"
+    }
+  ]
+}

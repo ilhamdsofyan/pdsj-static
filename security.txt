@@ -1,0 +1,4 @@
+Contact: mailto:security@sumberkayu.com
+Acknowledgements: Laporan keamanan dihargai. Hubungi email di atas untuk disclosure.
+Preferred-Languages: en, id
+Expires: 2026-12-31T23:59:59.000Z

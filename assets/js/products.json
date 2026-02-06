@@ -1,0 +1,148 @@
+{
+  "products": {
+    "meranti": {
+      "name": "Kayu Meranti",
+      "subtitle": "Solusi Ekonomis untuk Konstruksi Umum",
+      "image": "assets/images/Kayu Meranti 2.jpeg",
+      "description": "Kayu Meranti adalah pilihan populer untuk konstruksi dengan keseimbangan sempurna antara harga dan kualitas. Tersedia dalam berbagai dimensi dan mudah diaplikasikan untuk kusen, rangka, dan proyek konstruksi umum.",
+      "specs": [
+        { "label": "Jenis", "value": "Meranti" },
+        { "label": "Densitas", "value": "600-700 kg/m³" },
+        { "label": "Warna", "value": "Merah kecoklatan hingga coklat gelap" },
+        { "label": "Kekerasan", "value": "Sedang" },
+        { "label": "Tahan Cuaca", "value": "Sedang (perlu finishing)" },
+        { "label": "Aplikasi", "value": "Kusen, rangka, konstruksi umum" }
+      ],
+      "benefits": [
+        "Harga kompetitif dan terjangkau",
+        "Mudah dikerjakan dan dipotong",
+        "Stabilitas dimensi baik",
+        "Tersedia dalam berbagai ukuran standar",
+        "Cocok untuk proyek skala besar",
+        "Finishing mudah (cat/vernis)"
+      ]
+    },
+    "kamper": {
+      "name": "Kayu Kamper",
+      "subtitle": "Stabil dan Mudah Diolah",
+      "image": "assets/images/Kayu Kamper.jpeg",
+      "description": "Kayu Kamper terkenal dengan stabilitasnya yang tinggi dan kemudahan pengerjaan. Ideal untuk rangka bangunan, pintu, jendela, serta aplikasi interior dan eksterior yang membutuhkan kayu berkualitas.",
+      "specs": [
+        { "label": "Jenis", "value": "Kamper" },
+        { "label": "Densitas", "value": "700-800 kg/m³" },
+        { "label": "Warna", "value": "Kuning keemasan" },
+        { "label": "Kekerasan", "value": "Sedang-Tinggi" },
+        { "label": "Tahan Cuaca", "value": "Baik" },
+        {
+          "label": "Aplikasi",
+          "value": "Rangka, pintu, jendela, interior-eksterior"
+        }
+      ],
+      "benefits": [
+        "Stabilitas dimensi sangat baik",
+        "Mudah untuk dikerjakan",
+        "Tahan lama dan awet",
+        "Estetika warna menarik",
+        "Cocok untuk finishing natural atau cat",
+        "Gaya tradisional dan modern"
+      ]
+    },
+    "bengkirai": {
+      "name": "Kayu Bengkirai",
+      "subtitle": "Kekuatan Tinggi & Tahan Cuaca",
+      "image": "assets/images/Kayu Bengkirai.jpeg",
+      "description": "Kayu Bengkirai menawarkan kekuatan luar biasa dan ketahanan terhadap cuaca ekstrem. Sangat cocok untuk struktur berat, konstruksi luar ruangan, dan aplikasi yang membutuhkan daya tahan jangka panjang.",
+      "specs": [
+        { "label": "Jenis", "value": "Bengkirai" },
+        { "label": "Densitas", "value": "800-900 kg/m³" },
+        { "label": "Warna", "value": "Kuning keemasan hingga coklat" },
+        { "label": "Kekerasan", "value": "Tinggi" },
+        { "label": "Tahan Cuaca", "value": "Sangat tahan" },
+        {
+          "label": "Aplikasi",
+          "value": "Struktur berat, outdoor, konstruksi panjang"
+        }
+      ],
+      "benefits": [
+        "Kekuatan struktural luar biasa",
+        "Tahan terhadap kondisi cuaca ekstrem",
+        "Daya tahan jangka panjang (30+ tahun)",
+        "Tahan terhadap serangan rayap dan jamur",
+        "Cocok untuk proyek premium",
+        "Investasi jangka panjang yang menguntungkan"
+      ]
+    },
+    "damar-laut": {
+      "name": "Kayu Damar Laut",
+      "subtitle": "Solusi Efisien untuk Volume Besar",
+      "image": "assets/images/Kayu Damar Laut.jpeg",
+      "description": "Kayu Damar Laut adalah pilihan ekonomis untuk proyek konstruksi dan kemasan industri dalam volume besar. Menawarkan kombinasi harga terjangkau dengan kualitas yang dapat diandalkan.",
+      "specs": [
+        { "label": "Jenis", "value": "Damar Laut" },
+        { "label": "Densitas", "value": "550-650 kg/m³" },
+        { "label": "Warna", "value": "Kuning pucat hingga coklat muda" },
+        { "label": "Kekerasan", "value": "Sedang" },
+        { "label": "Tahan Cuaca", "value": "Sedang" },
+        {
+          "label": "Aplikasi",
+          "value": "Konstruksi umum, kemasan, proyek volume besar"
+        }
+      ],
+      "benefits": [
+        "Harga sangat kompetitif",
+        "Cocok untuk proyek volume besar",
+        "Mudah dikerjakan",
+        "Tidak mudah bengkok",
+        "Efisien untuk keperluan konstruksi praktis",
+        "Pengiriman cepat tersedia"
+      ]
+    },
+    "merbau": {
+      "name": "Kayu Merbau",
+      "subtitle": "Kayu Keras dengan Daya Tahan Tinggi",
+      "image": "assets/images/Kayu Merbau.jpeg",
+      "description": "Kayu Merbau adalah kayu keras premium dengan daya tahan tinggi. Ideal untuk aplikasi struktural yang menuntut kekuatan besar dan ketahanan ekstrem terhadap berbagai kondisi lingkungan.",
+      "specs": [
+        { "label": "Jenis", "value": "Merbau" },
+        { "label": "Densitas", "value": "900-1000 kg/m³" },
+        { "label": "Warna", "value": "Merah hingga merah gelap" },
+        { "label": "Kekerasan", "value": "Sangat tinggi" },
+        { "label": "Tahan Cuaca", "value": "Sangat tahan" },
+        {
+          "label": "Aplikasi",
+          "value": "Struktur, beban berat, premium outdoor"
+        }
+      ],
+      "benefits": [
+        "Kayu keras dengan kekuatan maksimal",
+        "Tahan terhadap serangan hama dan penyakit",
+        "Warna yang elegan dan premium",
+        "Daya tahan puluhan tahun",
+        "Cocok untuk proyek prestisius",
+        "Nilai investasi tinggi"
+      ]
+    },
+    "ulin": {
+      "name": "Kayu Ulin",
+      "subtitle": "Sangat Kuat & Tahan Ekstrem",
+      "image": "assets/images/Kayu Ulin.jpeg",
+      "description": "Kayu Ulin adalah kayu terkeras dan paling tahan di kelasnya. Digunakan untuk proyek-proyek khusus yang menuntut umur pakai panjang, seperti jembatan, dermaga, dan struktur dalam kondisi ekstrem.",
+      "specs": [
+        { "label": "Jenis", "value": "Ulin (Kayu Besi)" },
+        { "label": "Densitas", "value": "1000-1100 kg/m³" },
+        { "label": "Warna", "value": "Coklat kehitaman" },
+        { "label": "Kekerasan", "value": "Ekstrem (sangat sulit dikerjakan)" },
+        { "label": "Tahan Cuaca", "value": "Tahan ekstrem" },
+        { "label": "Aplikasi", "value": "Jembatan, dermaga, struktur khusus" }
+      ],
+      "benefits": [
+        "Kekerasan dan ketangguhan luar biasa",
+        "Umur pakai 50+ tahun",
+        "Tahan terhadap kondisi paling ekstrem",
+        "Tidak ada saingan untuk proyek premium",
+        "Investasi seumur hidup",
+        "Prestige dan kualitas terjamin"
+      ]
+    }
+  }
+}
