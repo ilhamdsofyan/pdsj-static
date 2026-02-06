@@ -10,20 +10,7 @@
 
 # Content Security Policy: adjust hosts as needed
 
-Header set Content-Security-Policy "
-default-src 'self' https: data:;
-img-src 'self' https: data:;
-font-src 'self' https://fonts.gstatic.com;
-style-src 'self' https://fonts.googleapis.com 'unsafe-inline' https://cdn.tailwindcss.com;
-script-src 'self'
-https://cdn.tailwindcss.com
-https://fonts.googleapis.com
-https://www.googletagmanager.com
-https://www.google-analytics.com
-'unsafe-inline'
-'unsafe-eval';
-connect-src 'self' https:;
-"
+Header set Content-Security-Policy "default-src 'self' https: data:;img-src 'self' https: data:;font-src 'self' https://fonts.gstatic.com;style-src 'self' https://fonts.googleapis.com 'unsafe-inline' https://cdn.tailwindcss.com;script-src 'self'https://cdn.tailwindcss.comhttps://fonts.googleapis.comhttps://www.googletagmanager.comhttps://www.google-analytics.com'unsafe-inline''unsafe-eval';connect-src 'self' https:;"
 </IfModule>
 
 # Deny access to dotfiles
