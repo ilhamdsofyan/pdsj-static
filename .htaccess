@@ -8,9 +8,23 @@
   # HSTS (only applies when site is served over HTTPS)
   Header always set Strict-Transport-Security "max-age=63072000; includeSubDomains; preload"
 
-# Content Security Policy: adjust hosts as needed
+  # Content Security Policy: adjust hosts as needed
+  Header set Content-Security-Policy "default-src 'self' https: data:; img-src 'self' https: data:; font-src 'self' https://fonts.gstatic.com; style-src 'self' https://fonts.googleapis.com 'unsafe-inline'; script-src 'self' https://fonts.googleapis.com https://www.googletagmanager.com https://www.google-analytics.com 'unsafe-inline' 'unsafe-eval'; connect-src 'self' https:;"
+</IfModule>
 
-Header set Content-Security-Policy "default-src 'self' https: data:; img-src 'self' https: data:; font-src 'self' https://fonts.gstatic.com; style-src 'self' https://fonts.googleapis.com 'unsafe-inline' https://cdn.tailwindcss.com; script-src 'self' https://cdn.tailwindcss.com https://fonts.googleapis.com https://www.googletagmanager.com https://www.google-analytics.com 'unsafe-inline' 'unsafe-eval'; connect-src 'self' https:;"
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType image/jpg "access plus 1 year"
+  ExpiresByType image/jpeg "access plus 1 year"
+  ExpiresByType image/gif "access plus 1 year"
+  ExpiresByType image/png "access plus 1 year"
+  ExpiresByType image/webp "access plus 1 year"
+  ExpiresByType text/css "access plus 1 month"
+  ExpiresByType application/pdf "access plus 1 month"
+  ExpiresByType text/x-javascript "access plus 1 month"
+  ExpiresByType application/x-shockwave-flash "access plus 1 month"
+  ExpiresByType image/x-icon "access plus 1 year"
+  ExpiresDefault "access plus 2 days"
 </IfModule>
 
 # Deny access to dotfiles
