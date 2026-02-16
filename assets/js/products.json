@@ -3,7 +3,7 @@
     "meranti": {
       "name": "Kayu Meranti",
       "subtitle": "Solusi Ekonomis untuk Konstruksi Umum",
-      "image": "assets/images/Kayu Meranti 2.jpeg",
+      "image": "assets/images/Kayu Meranti 2.webp",
       "description": "Kayu Meranti adalah pilihan populer untuk konstruksi dengan keseimbangan sempurna antara harga dan kualitas. Tersedia dalam berbagai dimensi dan mudah diaplikasikan untuk kusen, rangka, dan proyek konstruksi umum.",
       "specs": [
         { "label": "Jenis", "value": "Meranti" },
@@ -25,7 +25,7 @@
     "kamper": {
       "name": "Kayu Kamper",
       "subtitle": "Stabil dan Mudah Diolah",
-      "image": "assets/images/Kayu Kamper.jpeg",
+      "image": "assets/images/Kayu Kamper.webp",
       "description": "Kayu Kamper terkenal dengan stabilitasnya yang tinggi dan kemudahan pengerjaan. Ideal untuk rangka bangunan, pintu, jendela, serta aplikasi interior dan eksterior yang membutuhkan kayu berkualitas.",
       "specs": [
         { "label": "Jenis", "value": "Kamper" },
@@ -50,7 +50,7 @@
     "bengkirai": {
       "name": "Kayu Bengkirai",
       "subtitle": "Kekuatan Tinggi & Tahan Cuaca",
-      "image": "assets/images/Kayu Bengkirai.jpeg",
+      "image": "assets/images/Kayu Bengkirai.webp",
       "description": "Kayu Bengkirai menawarkan kekuatan luar biasa dan ketahanan terhadap cuaca ekstrem. Sangat cocok untuk struktur berat, konstruksi luar ruangan, dan aplikasi yang membutuhkan daya tahan jangka panjang.",
       "specs": [
         { "label": "Jenis", "value": "Bengkirai" },
@@ -75,7 +75,7 @@
     "damar-laut": {
       "name": "Kayu Damar Laut",
       "subtitle": "Solusi Efisien untuk Volume Besar",
-      "image": "assets/images/Kayu Damar Laut.jpeg",
+      "image": "assets/images/Kayu Damar Laut.webp",
       "description": "Kayu Damar Laut adalah pilihan ekonomis untuk proyek konstruksi dan kemasan industri dalam volume besar. Menawarkan kombinasi harga terjangkau dengan kualitas yang dapat diandalkan.",
       "specs": [
         { "label": "Jenis", "value": "Damar Laut" },
@@ -100,7 +100,7 @@
     "merbau": {
       "name": "Kayu Merbau",
       "subtitle": "Kayu Keras dengan Daya Tahan Tinggi",
-      "image": "assets/images/Kayu Merbau.jpeg",
+      "image": "assets/images/Kayu Merbau.webp",
       "description": "Kayu Merbau adalah kayu keras premium dengan daya tahan tinggi. Ideal untuk aplikasi struktural yang menuntut kekuatan besar dan ketahanan ekstrem terhadap berbagai kondisi lingkungan.",
       "specs": [
         { "label": "Jenis", "value": "Merbau" },
@@ -125,7 +125,7 @@
     "ulin": {
       "name": "Kayu Ulin",
       "subtitle": "Sangat Kuat & Tahan Ekstrem",
-      "image": "assets/images/Kayu Ulin.jpeg",
+      "image": "assets/images/Kayu Ulin.webp",
       "description": "Kayu Ulin adalah kayu terkeras dan paling tahan di kelasnya. Digunakan untuk proyek-proyek khusus yang menuntut umur pakai panjang, seperti jembatan, dermaga, dan struktur dalam kondisi ekstrem.",
       "specs": [
         { "label": "Jenis", "value": "Ulin (Kayu Besi)" },
