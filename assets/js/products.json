@@ -143,6 +143,35 @@
         "Investasi seumur hidup",
         "Prestige dan kualitas terjamin"
       ]
+    },
+    "borneo": {
+      "name": "Kayu Borneo",
+      "subtitle": "Kayu Keras Tropis untuk Konstruksi Berat",
+      "image": "assets/images/Kayu Borneo.webp",
+      "description": "Kayu Borneo merupakan kayu keras tropis yang dikenal memiliki kekuatan struktural tinggi dan ketahanan baik terhadap cuaca serta kelembapan. Umumnya digunakan untuk kebutuhan konstruksi berat dan aplikasi luar ruang yang memerlukan stabilitas serta daya tahan jangka panjang.",
+      "specs": [
+        { "label": "Jenis", "value": "Kayu keras tropis (Borneo)" },
+        {
+          "label": "Densitas",
+          "value": "±850–1050 kg/m³ (tergantung kadar air)"
+        },
+        { "label": "Warna", "value": "Coklat kekuningan hingga coklat tua" },
+        { "label": "Tekstur", "value": "Serat relatif lurus hingga berpadu" },
+        { "label": "Kekerasan", "value": "Tinggi" },
+        { "label": "Ketahanan", "value": "Baik terhadap cuaca dan kelembapan" },
+        {
+          "label": "Aplikasi",
+          "value": "Struktur berat, decking, jembatan, dermaga, dan konstruksi luar ruang"
+        }
+      ],
+      "benefits": [
+        "Kekuatan struktural tinggi untuk beban berat",
+        "Stabil untuk penggunaan jangka panjang",
+        "Cocok untuk aplikasi eksterior",
+        "Tahan terhadap perubahan cuaca tropis",
+        "Nilai ekonomis untuk proyek skala besar",
+        "Pilihan tepat untuk kebutuhan konstruksi berat"
+      ]
     }
   }
 }
